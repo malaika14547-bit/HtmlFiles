@@ -1,0 +1,106 @@
+.fullValuesSection{
+    background-color: rgba(0, 0, 255, 0.749);
+    padding: 2%;
+}
+.valuesHeaderdiv{
+    color: white;
+    text-align: center;
+}
+
+#container{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    color: white;
+    justify-content: space-evenly;
+}
+.aboutheading{
+    text-align: center;
+    color: white;
+    font-size: larger;
+    margin-top: 20px;
+    line-height: 1;
+}
+#aboutparagraph{
+    text-align: center;
+    color: white;
+    font-size: larger;
+
+}
+#head1{
+    background-color: white;
+    color: blue;
+    display: grid;
+    margin: 20px;
+    font-size: large;
+    padding: 2%;
+}
+#head2{
+    background: white;
+    color: blue;
+    display: grid;
+    margin: 20px;
+     font-size: large;
+     padding: 2%;
+
+
+
+}
+#head3{
+    background-color: white;
+    color:blue;
+    display: grid;
+    margin: 20px;
+     font-size: large;
+     padding: 2%;
+     
+
+
+
+}
+#head4{
+     background-color: white;
+    color: blue;
+    display: grid;
+     margin: 20px;
+    font-size: large;
+    padding: 2%;
+
+
+
+}
+#head5{
+     background-color: white;
+    color: blue;
+    display: grid;
+     margin: 20px;
+     font-size: large;
+     padding: 2%;
+
+
+
+}
+#head6{
+    background-color: white;
+    color: blue;
+    display: grid;
+    margin: 20px;
+    font-size: large;
+    padding: 2%;
+
+
+}
+#aboutparagrah{
+    background-color: white;
+    color: blue;
+    display: grid;
+     margin: 20px;
+    font-size: large;
+    padding: 2%; 
+}
+.para{
+      margin: 2%;
+    text-align: center;
+    /* width: 1%; */
+    font-size: 64px;
+
+}

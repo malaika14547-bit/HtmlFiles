@@ -1,0 +1,18 @@
+.shapes{
+    border-radius: 50%;
+    border: 2px solid black;
+    height: 50vh;
+    width:50vh ;
+    justify-content: center;
+    align-items: center;
+}
+#box1{
+    background-color: blue;
+}  
+#box2{
+    background-color: red;
+    display: none;
+}
+
+
+

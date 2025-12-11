@@ -1,0 +1,15 @@
+.container{
+    height: 100vh;
+    background-color: bisque;
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    /* flex-direction: row-reverse */
+}
+
+.cards{
+    width: 25vh;
+    height: 25vh;
+    background-color: plum;
+    border: 2px solid black;
+    margin: 2%;
+}

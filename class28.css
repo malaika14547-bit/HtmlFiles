@@ -1,0 +1,40 @@
+#outercontainer{
+    display: flex;
+}
+
+.container{
+    height: 25vh;
+    width:50vh ;
+    
+    
+}
+#box1{
+    background-color: red;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+#box2{
+    background-color: blue;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+.circle{
+    border-radius: 50%;
+    background-color: black;
+    height: 25vh;
+    width: 25vh;
+    
+}
+#outercircle{
+    display: flex;
+    justify-content: space-evenly;
+    width: 50vw;
+
+}
+#car1{
+    background-color: blue;
+
+}
+#car2{
+    background-color: red;
+}

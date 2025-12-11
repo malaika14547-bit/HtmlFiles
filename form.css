@@ -1,0 +1,40 @@
+.container{
+  background-color:plum;
+  text-align: center;
+  border: none;
+  color: white;
+  
+} 
+#main{
+  background-color: green
+}
+
+#mains{
+  text-align: center;
+  padding: 2%;
+}
+.outercontainer{
+  /* background-color: plum; */
+  text-align: center;
+}
+
+.formCard{
+  background-color: aqua;
+  height: 100vh;
+  width: 33%;
+}
+.fullBody{
+  display: flex;
+  background-color: plum;
+  justify-content: center;
+}
+
+#main{
+  width: 150px;
+  padding: 1%;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: large;
+}

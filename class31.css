@@ -1,0 +1,47 @@
+#container{
+    background-color: white;
+    color: black;
+}
+
+.cards{
+    background-color: blue;
+    color: white;
+    margin: 20px;
+    font-size: large;
+    padding: 2%;
+    
+}
+
+#outercontainer{
+    background-color: white;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+
+    
+
+}
+.industries{
+    background-color: white;
+    color: black;
+    font: large;
+    text-align: center;
+
+}
+.building{
+    padding: 2%;
+    
+}
+.img{
+    display: flex;
+    margin: 20px;
+
+    
+
+}
+#heads{
+    background-color: blue;
+
+}
+#ProfitOrganization{
+    border: 2px solid black;
+}

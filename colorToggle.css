@@ -1,0 +1,82 @@
+.container{
+    height: 75vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2%;
+    border: 2px solid black;
+    margin: 2%;
+}
+
+#shape{
+    height: 50vh;
+    background-color: aqua;
+    width: 50vh;
+    border-radius: 50%;
+    margin: 2%;
+}
+
+.buttons{
+    display: flex;
+    flex-direction: column;
+    margin: 2%;
+}
+
+.btns{
+    margin: 5%;
+    padding: 10%;
+    width: 100px;
+    font-size: larger;
+    cursor: pointer;
+    border-radius: 5%;
+    border: none;
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+#red{
+    background-color: red;
+}
+
+#blue{
+    background-color: blue;
+}
+
+#green{
+    background-color: green;
+}
+
+#pink{
+    background-color: pink;
+}
+
+#brown{
+    background-color: brown;
+}
+
+
+#yellow:hover{
+    background-color: rgb(218, 218, 0);
+}
+
+#red:hover{
+    background-color: rgb(218, 2, 2);
+}
+
+#blue:hover{
+    background-color: rgb(115, 115, 239);
+}
+
+#green:hover{
+    background-color: rgb(0, 255, 0);
+}
+
+#pink:hover{
+    background-color: rgb(245, 100, 124);
+}
+
+#brown:hover{
+    background-color: rgb(223, 65, 65);
+}

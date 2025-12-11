@@ -1,0 +1,40 @@
+#outercontainer{
+    height: 100vh;
+     width: 150vh;
+     background-color: blue;
+     /* padding: 5%; */
+     font-size: 25px;
+     line-height: 30px;
+     color: white;
+
+}
+#container{
+    /* width: 50%; */
+    /* height: 300%; */
+    margin: 2%;
+     /* padding: 5%; */
+
+
+
+}
+#main{
+    display: flex;
+     flex-direction: row-reverse 
+    
+
+}
+.para{
+    margin: 2%;
+    text-align: center;
+    /* width: 1%; */
+}
+#mains{
+    background-color: blue;
+     padding: 1%;
+
+}
+
+#abotHeading{
+    text-align: center;
+    color: white;
+}

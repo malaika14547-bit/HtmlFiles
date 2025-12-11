@@ -1,0 +1,34 @@
+#outercontainer{
+    background-color:black;
+    justify-content: center;
+  text-align: center;
+  height: 60vh;
+  color: white;
+  padding: 2%;
+  width: 50%
+  
+  
+
+}
+#btn{
+    background-color: aqua;
+    width: 10%;
+}
+#fname, #lname{
+  background-color: rgba(0, 0, 0, 0.61);
+  color: white;
+
+}
+.intouch{
+  margin: 2%;
+  padding: 1%;
+  border-radius: 5px;
+  /* font-size: large; */
+  
+}
+.body{
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  height: 100vh;
+}
